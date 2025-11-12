@@ -1,6 +1,95 @@
-Licencja MIT (Tłumaczenie nieoficjalne)
-Poniżej znajduje się nieoficjalne tłumaczenie licencji MIT na język polski. Nie jest ono prawnie wiążące. Wiążąca jest wyłącznie oryginalna, angielska wersja licencji dostępna w pliku "LICENSE".
+# MIT License
+
 Copyright (c) 2024 gazda12345kamil-dotcom
-Niniejszym udziela się bezpłatnie zezwolenia każdej osobie wchodzącej w posiadanie kopii tego oprogramowania i powiązanych plików dokumentacji (dalej zwanych „Oprogramowaniem”) na handel Oprogramowaniem bez ograniczeń, w tym między innymi na prawo do użytkowania, kopiowania, modyfikowania, łączenia, publikowania, dystrybuowania, sublicencjonowania i/lub sprzedawania kopii Oprogramowania oraz zezwalania osobom, którym Oprogramowanie jest dostarczane, na czynienie tego na następujących warunkach:
-Powyższa nota o prawach autorskich i niniejsza nota o zezwoleniu muszą być zawarte we wszystkich kopiach lub istotnych częściach Oprogramowania.
-OPROGRAMOWANIE JEST DOSTARCZANE „TAK JAK JEST”, BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI WARTOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW. W ŻADNYM WYPADKU AUTORZY LUB POSIADACZE PRAW AUTORSKICH NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK ROSZCZENIA, SZKODY LUB INNE ZOBOWIĄZANIA, NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ ONE Z UMOWY, DELIKTU LUB W INNY SPOSÓB, WYNIKAJĄCE Z, LUB W ZWIĄZKU Z OPROGRAMOWANIEM LUB UŻYTKOWANIEM LUB INNYMI TRANSAKCJAMI DOKONYWANYMI NA OPROGRAMOWANIU.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----
+
+## Third-Party Licenses
+
+This software uses the following open-source libraries:
+
+### pyrtlsdr
+
+- License: GPLv3
+- URL: <https://github.com/roger-/pyrtlsdr>
+
+### RTL-SDR Drivers
+
+- License: GPLv2+
+- URL: <https://github.com/rtlsdrblog/rtl-sdr-blog>
+
+### CustomTkinter
+
+- License: MIT
+- URL: <https://github.com/TomSchimansky/CustomTkinter>
+
+### NumPy
+
+- License: BSD 3-Clause
+- URL: <https://numpy.org/>
+
+### SciPy
+
+- License: BSD 3-Clause
+- URL: <https://scipy.org/>
+
+### sounddevice
+
+- License: MIT
+- URL: <https://github.com/spatialaudio/python-sounddevice>
+
+### soundfile
+
+- License: BSD 3-Clause
+- URL: <https://github.com/bastibe/python-soundfile>
+
+-----
+
+## Open Source Project
+
+This is an **open-source project** and contributions are welcome! Feel free to:
+
+- 🐛 Report bugs via Issues
+- 💡 Suggest new features
+- 🔧 Submit Pull Requests
+- ⭐ Star the repository if you find it useful
+- 🍴 Fork and create your own versions
+
+-----
+
+## Important Notes
+
+1. **Hardware Compatibility:** This software is designed specifically for the RTL-SDR Blog V4. Use with other hardware is at your own risk.
+1. **Regulatory Compliance:** Users are responsible for ensuring their use of this software complies with local radio frequency regulations and laws.
+1. **No Warranty:** This software is provided “as is” without warranty of any kind. The authors are not responsible for any damage or legal issues resulting from the use of this software.
+1. **Attribution:** While not required by the MIT License, attribution is appreciated if you use this software in your projects or derivative works.
+1. **Community Driven:** This project welcomes contributions from the community. Please read the contributing guidelines before submitting pull requests.
+
+-----
+
+## Contact
+
+- **GitHub:** [@gazda12345kamil-dotcom](https://github.com/gazda12345kamil-dotcom)
+- **Issues:** Please report bugs and feature requests through GitHub Issues
+
+-----
+
+**Thank you for using and contributing to Global FM Radio!** 📻🎵​​​​​​​​​​​​​​​​
